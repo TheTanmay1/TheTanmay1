@@ -1,12 +1,12 @@
 ### Hi there I am Tanmay Agarwal 🙂
 
-- 🔭 I’m currently working on
-- 🌱 I’m currently learning
-- 👯 I’m looking to 
-- 🤔 I’m looking fo
-- 💬 Ask me about 
-- 📫 How to reach me: 
-- ⚡ Fun fact: ?
+- 🔭 I’m a Android Developer with an experience of 2+ Years
+- 🌱 I’m currently building apps for my startup and working on many clients projects
+- 👯 I’m looking to collab with other android developers to build a powerful android developers community
+- 🤔 I’m looking for collabaration with me so that we can built a great innovative app to help the society
+- 💬 Ask me about android development, kotlin, android studio, java.
+- 📫 How to reach me: foundertanmay@gmail.com, whatsapp- 6395962636, fiverr-> https://www.fiverr.com/appsdev_tanmay
+- ⚡ Fun fact: I love to build awesome apps using Kotlin and my code is so clean that a newbie can even understand
 <hr
     
     
