@@ -12,7 +12,7 @@
     
     
 <img
-src="https://c.tenor.com/cdu8MIU0Mq0AAAAC/android-google-happy-google.gif" width="350" height = "400" align= "left" />
+src="https://miro.medium.com/max/800/1*zzTEyTwyy7jXibtqVWg84Q.gif" width="350" height = "400" align= "left" />
 <img src='https://github-readme-stats.vercel.app/api/top-langs/?username=TheTanmay1&theme=algolia&hide_langs_below=4' width = "300" align="right" />
 <img src='https://github-readme-stats.vercel.app/api?username=TheTanmay1&show_icons=true&theme=algolia&count_private=true&line_height=30' width = "500" align ="left" />
 <p align="left"> <a href="https://github.com/TheTanmay1"><img src="https://github-profile-trophy.vercel.app/?username=TheTanmay1&theme=dracula" alt="TheTanmay1" /></a</p>
