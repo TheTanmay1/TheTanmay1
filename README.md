@@ -19,7 +19,7 @@ src="https://c.tenor.com/cdu8MIU0Mq0AAAAC/android-google-happy-google.gif" width
 
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=TheTanmay1&theme=algolia)](https://git.io/streak-stats)
 
-![Pop repo ](https://github.com/TheTanmay1/Sanisha_Wedding_App.git&theme=algolia)
+![Pop repo ](https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=TheTanmay1&repo=Sanisha_Wedding_App&theme=algolia)
 
 [![Hits](https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FTheTanmay1&count_bg=%2379C83D&title_bg=%23242748&icon=dev-dot-to.svg&icon_color=%2311E70C&title=COUNT+ViSITORS&edge_flat=false)](https://hits.seeyoufarm.com)
 ![Visitor Count](https://profile-counter.glitch.me/TheTanmay1/count.svg)
